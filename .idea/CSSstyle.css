@@ -1,0 +1,48 @@
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    color: darkblue;
+}
+body {
+    /* background-color: #6495ed; */
+    background: url(/.idea/resources/waterColorBackground.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.content {
+    color: #ff8c00;
+}
+img {
+    display: block;
+    align: left;
+    width: 20%;
+}
+.borders {
+    text-align: center;
+    border-style: solid;
+    border-color: darkblue;
+    padding: 1em;
+    margin-left: 350px;
+    margin-right: 350px;
+    border-width: 5px;
+}
+button {
+    font-size: 35px;
+    padding: 14px 40px;
+    background-color: darkblue;
+    color: darkgoldenrod;
+    border-radius: 8px;
+}
+button:hover {
+    background-color: aliceblue;
+    color: darkgoldenrod;
+    border: 2px solid darkgoldenrod;
+}
+table {
+    text-align: center;
+    width: 1500px;
+}
